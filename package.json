@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://github.com/ramocoblisan/goit-js-hw-08",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "start": "index src/*.html",
+    "build": "index build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
