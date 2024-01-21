@@ -7,6 +7,7 @@ import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 
 const galleryContainer = document.querySelector(".gallery");
+galleryContainer.style.listStyle = "none";
 const createGallaryItems = galleryItems
   .map(({ original, preview, description }) =>
     `<li class="gallery__item">
@@ -23,3 +24,4 @@ const galleryHandler = new SimpleLightbox('ul.gallery a', {
   captionDelay: 250
 });
 galleryHandler.on("show.simplelightbox");
+
