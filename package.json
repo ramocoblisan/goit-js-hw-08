@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://github.com/Achilesseb/goit-js-hw-081",
   "scripts": {
-    "start": "index src/*.html",
-    "build": "index src/index.html --public-url /goit-js-hw-08/"
+    "start": "parcel src/*.html",
+    "build": "parcel src/index.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
