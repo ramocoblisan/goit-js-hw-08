@@ -2,14 +2,14 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/ramocoblisan/goit-js-hw-08",
+  "homepage": "https://github.com/Achilesseb/goit-js-hw-081",
   "scripts": {
     "start": "index src/*.html",
-    "build": "src/index.html --public-url /goit-js-hw-08/"
+    "build": "index src/index.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramocoblisan/goit-js-hw-08.git"
+    "url": "git+https://github.com/Achilesseb/goit-js-hw-081.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
