@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-081",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/Achilesseb/goit-js-hw-081",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel src/index.html --public-url /goit-js-hw-08/"
+    "build": "parcel src/index.html --public-url /goit-js-hw-081/"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ramocoblisan/goit-js-hw-08/issues"
+    "url": "https://github.com/ramocoblisan/goit-js-hw-081/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
